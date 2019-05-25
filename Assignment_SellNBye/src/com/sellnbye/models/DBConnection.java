@@ -11,7 +11,7 @@ public class DBConnection {
 			Connection con = null;
 			String url="jdbc:mysql://localhost:3306/sellNByedb";
 			String username="root";
-			String password="cd96842";
+			String password="cd96842#";
 		
 		
 		try
